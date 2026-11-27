@@ -76,7 +76,7 @@ The goal of the project:
 | 🧪 Testing Report | What was checked and the results |
 | ⚠️ Limitations | Honest notes |
 | 🔮 Future Improvements | Ideas for the next version |
-| 👤 Author | Who made it |
+| 👤 Author | Shyam Gor |
 
 ---
 
